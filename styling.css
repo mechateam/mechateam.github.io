@@ -88,3 +88,25 @@ span{
 .Contact{
 	height: 135px;
 }
+
+.flex-container{
+	display: flex;
+}
+.fa{
+	margin-left: -25px;
+	object-fit: cover;
+  	font-size: 25px;
+  	width: 35px;
+  	text-align: center;
+  	text-decoration: none;
+  	border-radius: 50%;
+
+}
+.fa-linkedin{
+	color: white;
+	background-color: #3B5998;
+}
+.fa-instagram{
+	color: #C4C4C4;
+	background-color: red;
+}
