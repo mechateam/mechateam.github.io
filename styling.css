@@ -4,6 +4,8 @@ title{
 
 }
 #its-me{
+	position: relative;
+	top: 10px;
     width: 200px;
     object-fit: cover;
     height: 200px;
@@ -13,7 +15,8 @@ title{
 	height: 100px;
 	background-color: black;
 }
-.nav-red{
+.nav-black{
+	position: fixed;
 	padding:20px;
 	font-size: 30px;
 }
@@ -28,4 +31,31 @@ main{
 }
 .profile-page{
 	background-color: #A22C29;
+	height: 300px;
+}
+.position-center{
+	position: relative;
+	left: 600px;
+	top: 30px;
+}
+.font-white{
+	color: #FEFFEE;
+}
+.about-me{
+	height: 150px;
+}
+.about-me-text{
+	position: relative;
+	top: 10px;
+	width: 779px;
+	height: 83px;
+}
+
+.fooheader{
+	height: 100px;
+}
+
+.Background{
+	height: 500px;
+	background-color: #0A100D;
 }
