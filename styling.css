@@ -56,15 +56,15 @@ main{
 }
 
 .Background{
-	height: 500px;
+	height: 600px;
 	background-color: #0A100D;
 }
 .top-background{
-	height: 250px;
+	height: 400px;
 }
 .low-background{
-	height: 250px;
-
+	height: 400px;
+	margin-top: -200px;
 }
 .low-end{
 	position: relative;
@@ -77,4 +77,12 @@ main{
 ul{
 	line-height: 200%;
 	list-style-type: none;
+}
+span{
+	line-height: 13px;
+	font-size: 12px;
+}
+
+.Contact{
+	height: 135px;
 }
