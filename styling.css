@@ -3,3 +3,29 @@ title{
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
 
 }
+#its-me{
+    width: 200px;
+    object-fit: cover;
+    height: 200px;
+    border-radius: 50%;
+}
+.home{
+	height: 100px;
+	background-color: black;
+}
+.nav-red{
+	padding:20px;
+	font-size: 30px;
+}
+main{
+	background-color: #E5E5E5;
+	font-family: SF Pro Display;
+	font-style: normal;
+	font-weight: normal;
+}
+.nav-link-white{
+	color: #FFFFFF;
+}
+.profile-page{
+	background-color: #A22C29;
+}
