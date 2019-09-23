@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "SF Display";
+  font-weight: 400;
+  src: url("https://sf.abarba.me/SF-UI-Display-Regular.otf");
+}
+
 .Warnahtml{
 	background-color: black;
 }
@@ -26,7 +32,7 @@ title{
 }
 main{
 	background-color: #E5E5E5;
-	font-family: SF Pro Display;
+	font-family: SF Display;
 	font-style: normal;
 	font-weight: normal;
 }
@@ -96,11 +102,9 @@ span{
 .flex-container{
 	display: flex;
 }
-.fa{
-	margin-left: -25px;
-	object-fit: cover;
-  	font-size: 25px;
-  	width: 35px;
+.fa{	
+  	font-size: 50px;
+  	width: 65px;
   	text-align: center;
   	text-decoration: none;
   	border-radius: 50%;
