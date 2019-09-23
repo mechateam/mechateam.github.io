@@ -1,3 +1,7 @@
+.Warnahtml{
+	background-color: black;
+}
+
 title{
 	color: white;
 	font-family: -apple-system, BlinkMacSystemFont, sans-serif;
@@ -109,4 +113,11 @@ span{
 .fa-instagram{
 	color: #C4C4C4;
 	background-color: red;
+}
+.progress{
+	width: 50%;
+}
+.center-page{
+	position: relative;
+	padding-top: 20%;
 }
