@@ -21,11 +21,15 @@ title{
     height: 200px;
     border-radius: 50%;
 }
+
 .home{
-	height: 13.774104683195592vh;
+	display: block;
+	overflow: auto;
+	height: auto;
 	background-color: black;
 }
 .nav-black{
+	background-color: black;
 	position: fixed;
 	padding:20px;
 	font-size: 30px;
