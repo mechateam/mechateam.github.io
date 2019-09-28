@@ -22,7 +22,7 @@ title{
     border-radius: 50%;
 }
 .home{
-	height: 100px;
+	height: 13.774104683195592vh;
 	background-color: black;
 }
 .nav-black{
@@ -56,13 +56,14 @@ main{
 }
 .about-me-text{
 	position: relative;
-	top: 10px;
+	top: 0.625em;
 	width: 779px;
 	height: 83px;
+	word-wrap: break-word;
 }
 
 .fooheader{
-	height: 100px;
+	height: 6.250em;
 }
 
 .Background{
